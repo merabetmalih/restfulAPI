@@ -1,0 +1,2 @@
+rootProject.name = "TDM-EXO8-S5"
+include ':app'
